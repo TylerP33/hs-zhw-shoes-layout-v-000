@@ -56,3 +56,9 @@
   float:right;
   width: 33.333%
 }
+
+.border {
+  border: 5px;
+  border-style: hidden
+  
+}
