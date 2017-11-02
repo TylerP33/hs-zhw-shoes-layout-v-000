@@ -44,19 +44,19 @@
 }
 
 #ladybug {
-  float:inherit;
+  float:left;
   width: 33.333%;
 
 }
 
 #skaters {
-  float:inherit;
+  float:left;
   width: 33.333%;
 
 }
 
 #heels {
-  float:inherit;
+  float:left;
   width: 33.333%
 
 }
