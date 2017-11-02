@@ -27,14 +27,12 @@
 /* Posititoning Classes */
 #contact {
   float:left;
-  clear:left;
   width: 33.333%;
 
 }
 
 #shoearchive {
   float:left;
-  clear:right;
   width: 50%
 
 
@@ -42,28 +40,24 @@
 
 #summergrass {
   float:left;
-  clear:right;
   width: 50%
 
 }
 
 #ladybug {
   float:left;
-  clear:left;
   width: 33.333%;
 
 }
 
 #skaters {
   float:left;
-  clear:left;
   width: 33.333%;
 
 }
 
 #heels {
   float:left;
-  clear:left;
   width: 33.333%
 
 }
