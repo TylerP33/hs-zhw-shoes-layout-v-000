@@ -50,7 +50,7 @@
 #ladybug {
   float:left;
   width: 33.333%;
-  clear:both;
+
   margin-right: 10px;
 
 
@@ -60,7 +60,7 @@
 #skaters {
   float:left;
   width: 33.333%;
-  
+
 
 
 
@@ -69,7 +69,7 @@
 #heels {
   float:right;
   width: 33.333%
-  
+
 
 
 }
