@@ -27,7 +27,7 @@
 #contact {
   float:left;
   width: 33.333%;
-  margin: 0 auto;
+  
 }
 
 #shoearchive {
@@ -39,6 +39,7 @@
 #summergrass {
   float:left;
   width: 50%
+  margin: 0 auto;
 
 }
 
