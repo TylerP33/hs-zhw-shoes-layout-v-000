@@ -7,7 +7,7 @@
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  
+
 
 }
 
@@ -29,11 +29,13 @@
   float:left;
   width: 33.333%;
 
+
 }
 
 #shoearchive {
   float:left;
   width: 50%
+  column-gap: 40px;
 
 
 }
