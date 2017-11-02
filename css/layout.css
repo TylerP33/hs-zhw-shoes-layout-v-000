@@ -30,6 +30,7 @@
 }
 
 #follow {
+  position: relative;
   float: right;
   width: 33.333%
 }
