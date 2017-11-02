@@ -7,6 +7,7 @@
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+  column-gap: 1px;
 
 }
 
@@ -48,20 +49,20 @@
 #ladybug {
   float:left;
   width: 33.333%;
-  
+
 
 }
 
 #skaters {
   float:left;
   width: 33.333%;
-  
+
 
 }
 
 #heels {
   float:left;
   width: 33.333%
-  
+
 
 }
