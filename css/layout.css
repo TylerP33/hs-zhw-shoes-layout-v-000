@@ -41,21 +41,25 @@
 
 #summergrass {
   float:left;
+  clear:both;
   width: 67%
 }
 
 #ladybug {
   float:left;
+  clear:both;
   width: 33.333%;
 }
 
 #skaters {
   float:left;
+  clear:both;
   width: 33.333%;
 }
 
 #heels {
   float:right;
+  clear:both;
   width: 33.333%
 
 }
