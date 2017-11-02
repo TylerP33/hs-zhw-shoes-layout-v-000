@@ -54,7 +54,7 @@
 
 #skaters {
   float:left;
-
+  margin-right: 10px;
   width: 31.333%;
 }
 
