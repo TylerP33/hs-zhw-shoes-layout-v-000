@@ -60,7 +60,7 @@
 #skaters {
   float:left;
   width: 33.333%;
-  clear:right;
+  
 
 
 
@@ -69,6 +69,7 @@
 #heels {
   float:right;
   width: 33.333%
+  
 
 
 }
