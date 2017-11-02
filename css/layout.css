@@ -30,15 +30,15 @@
 }
 
 #shoearchive {
-  float:right;
+  float:left;
   width: 50%
-  
+
 }
 
 #summergrass {
   float:left;
   width: 50%
-  
+
 }
 
 #ladybug {
@@ -52,6 +52,6 @@
 }
 
 #heels {
-  float:right;
+  float:left;
   width: 33.333%;
 }
