@@ -32,9 +32,10 @@
 
 #shoearchive {
   float:left;
+  clear:both;
   height: 599px;
   width: 33%
-  clear:both;
+
 
 }
 
