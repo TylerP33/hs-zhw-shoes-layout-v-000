@@ -27,12 +27,13 @@
 #contact {
   float:left;
   width: 33.333%;
-  
+
 }
 
 #shoearchive {
   float:left;
   width: 50%
+  margin: 0 auto;
 
 }
 
@@ -46,7 +47,7 @@
 #ladybug {
   float:left;
   width: 33.333%;
-  margin: 0 auto;
+  
 }
 
 #skaters {
