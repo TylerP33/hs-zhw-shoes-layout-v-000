@@ -28,3 +28,9 @@
   float:left;
   width: 33.333%;
 }
+
+#follow {
+  float: right;
+  width: 66.66%
+  
+}
