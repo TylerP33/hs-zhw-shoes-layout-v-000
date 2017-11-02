@@ -56,7 +56,7 @@
 }
 
 #heels {
-  float:left;
+  float:inherit;
   width: 33.333%
 
 }
