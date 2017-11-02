@@ -32,12 +32,13 @@
 #shoearchive {
   float:right;
   width: 50%
-  padding: 2px;
+  padding: 1px;
 }
 
 #summergrass {
   float:left;
   width: 50%
+  padding: 1px;
 }
 
 #ladybug {
