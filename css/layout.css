@@ -36,7 +36,7 @@
   float:left;
   clear:left;
   width: 50%
-  
+
 
 }
 
@@ -56,6 +56,7 @@
 
 #skaters {
   float:left;
+  clear:left;
   width: 33.333%;
 
 }
