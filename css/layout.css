@@ -35,7 +35,7 @@
 #shoearchive {
   float:left;
   width: 50%
-  column-gap: 40px;
+  column: 40px;
 
 
 }
