@@ -56,11 +56,13 @@
 #skaters {
   float:left;
   width: 33.333%;
+  padding: 1px;
 
 }
 
 #heels {
   float:left;
   width: 33.333%
+  padding: 1px;
 
 }
