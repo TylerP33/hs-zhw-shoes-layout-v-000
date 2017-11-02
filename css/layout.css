@@ -42,12 +42,14 @@
 
 #summergrass {
   float:left;
+  clear:left;
   width: 50%
 
 }
 
 #ladybug {
   float:left;
+  clear:left;
   width: 33.333%;
 
 }
