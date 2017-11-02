@@ -47,15 +47,18 @@
 #ladybug {
   float:left;
   width: 33.333%;
-  
+  margin: 0 auto;
+
 }
 
 #skaters {
   float:left;
   width: 33.333%;
+  margin: 0 auto;
 }
 
 #heels {
   float:left;
-  width: 33.333%;
+  width: 33.333%
+  margin: 0 auto;
 }
