@@ -32,7 +32,7 @@
 }
 
 #shoearchive {
-  float:right;
+  float:left;
   width: 50%
 
 
@@ -47,7 +47,7 @@
 #ladybug {
   float:left;
   width: 33.333%;
-  
+
 
 
 }
@@ -55,7 +55,7 @@
 #skaters {
   float:left;
   width: 33.333%;
-  
+
 
 
 }
