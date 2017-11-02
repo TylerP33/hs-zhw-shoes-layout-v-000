@@ -27,13 +27,16 @@
 /* Posititoning Classes */
 #contact {
   float:left;
+  clear:left;
   width: 33.333%;
 
 }
 
 #shoearchive {
   float:left;
+  clear:left;
   width: 50%
+  
 
 }
 
