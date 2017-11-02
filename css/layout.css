@@ -24,3 +24,7 @@
 }
 
 /* Posititoning Classes */
+#contact {
+  float:left;
+  width: 33.333%;
+}
