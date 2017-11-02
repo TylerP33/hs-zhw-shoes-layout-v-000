@@ -63,6 +63,7 @@
 
 #heels {
   float:left;
+  clear:left;
   width: 33.333%
 
 }
